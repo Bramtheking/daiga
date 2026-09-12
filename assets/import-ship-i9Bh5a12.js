@@ -1,0 +1,1 @@
+var e=`/assets/import-ship-CMURRh8d.jpg`;export{e as t};

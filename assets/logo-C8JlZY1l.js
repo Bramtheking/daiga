@@ -1,0 +1,1 @@
+var e=`/assets/logo-B2yD7_dF.png`;export{e as t};

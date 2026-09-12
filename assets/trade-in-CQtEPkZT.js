@@ -1,0 +1,1 @@
+var e=`/assets/trade-in-CE4lwEb2.jpg`;export{e as t};
